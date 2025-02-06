@@ -1,0 +1,30 @@
+body{
+    background-color:aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.calculater{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+
+}
+.display{
+    padding: 8px 10px;
+    outline:none;
+    width : 89.5%;
+    margin: 20px 8px;
+    border-radius: 5px;
+    font-size: 20px;
+
+}
+.btn{
+    width: 60px;
+    height: 60px;
+    padding: 10px;
+    margin: 6px;
+    border-radius: 5px;
+}
